@@ -1,4 +1,4 @@
----PYTHON OUTPUT---
+---PYTHON OUTPUT FUNCTION---
 
 # 1.python print statement
 
@@ -39,7 +39,7 @@ print("the value of x is {} and y is {}".format(x,y))
 
 
 
----PYTHON INPUT---
+---PYTHON INPUT FUNCTION---
 
 # 1.using input() to take user input
 
